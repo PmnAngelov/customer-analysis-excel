@@ -14,5 +14,9 @@ Duplicate values were removed from the data, new column was added displaying thr
 <img align="center" src="https://github.com/PmnAngelov/data-analytics-excel/blob/main/imgs/RawData.PNG" />
 </p>
 
+<p align="center">
+<img align="center" src="https://github.com/PmnAngelov/data-analytics-excel/blob/main/imgs/PivotTables.PNG" />
+</p>
+
 
 
